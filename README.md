@@ -1,4 +1,4 @@
-#AI-mindsetmap
+# AI-mindsetmap
 本张思维导图添加了jupyter的使用技巧，和包括机器学习等节点
 希望大家能够一起完善人工智能的思维导图，更多更多人学习
 
